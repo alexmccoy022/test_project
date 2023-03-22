@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "339691280494",
+    "project_id": "tshirts-d2c85",
+    "storage_bucket": "tshirts-d2c85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339691280494:android:95ad49f0e01d7b806a2e7f",
+        "android_client_info": {
+          "package_name": "com.example.image_generator_with_payment_and_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339691280494-8o16lif2k40bvm84rdc98126d5fib24l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dSK59mys1fS1OxYzvgiyMj83O3u-INg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339691280494-8o16lif2k40bvm84rdc98126d5fib24l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339691280494-1lpqhga66tg4g3qu5htlppulheui8ncr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imageGeneratorWithPaymentAndAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339691280494:android:842f38f5e2903fbe6a2e7f",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339691280494-8o16lif2k40bvm84rdc98126d5fib24l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dSK59mys1fS1OxYzvgiyMj83O3u-INg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339691280494-8o16lif2k40bvm84rdc98126d5fib24l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339691280494-1lpqhga66tg4g3qu5htlppulheui8ncr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imageGeneratorWithPaymentAndAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
